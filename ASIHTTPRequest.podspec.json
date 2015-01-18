@@ -1,0 +1,12 @@
+{
+  "name": "ASIHTTPRequest",
+  "version": "1.0.0",
+  "source": {
+    "git": "https://github.com/PocketScientists/asi-http-request.git"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": false
+}
